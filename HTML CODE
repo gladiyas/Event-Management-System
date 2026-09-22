@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>Events</title>
+     <link rel="icon" href="img/date.png">
+   </head>
+   <body bgcolor="black" style="color: white;">
+        <div style="text-align: center;">
+             <h1>Upcoming Events📅</h1>
+             <p>Don't Miss any of your important events. Here are the important events you have registered for!</p>
+        </div>
+
+        <hr>
+       
+        <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic accusamus maiores quas et tempore incidunt blanditiis? Quis suscipit maxime veniam maiores iste reiciendis quaerat officiis, ullam reprehenderit distinctio inventore repellat itaque sunt, qui nemo dolorem vitae debitis ab? Dolores incidunt fugit placeat cum soluta labore quo illum saepe aliquam delectus reiciendis perferendis consequuntur ipsa sint temporibus deleniti recusandae totam inventore eligendi veniam minus corporis, quas nesciunt? Nulla harum autem sequi voluptatibus dicta obcaecati totam ratione error quia, veniam magni neque quae fugit libero atque veritatis deleniti molestiae nisi. Nobis nulla nostrum iure obcaecati dolor modi neque repudiandae nesciunt, amet voluptas.
+        </p>
+      
+        <div style="text-align: center;">
+             <img src="img/event1.png">
+             <h1>Photo Gallery Event</h1>
+             <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+             <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ducimus rem in optio, voluptatibus odit. Hic eius dolorem amet, a ducimus voluptas inventore cumque quos odio porro illo sunt dolore laudantium culpa illum fugit impedit ipsum dolor nemo non recusandae. Eum explicabo facere voluptate porro voluptas a in sed libero!
+             </p>
+        </div>
+
+        <div style="text-align: center;">
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.myntra.com/" style="color: #337ab7;">Fashion Store</a>
+            </h1>
+            <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ducimus rem in optio, voluptatibus odit. Hic eius dolorem amet, a ducimus voluptas inventore cumque quos odio porro illo sunt dolore laudantium culpa illum fugit impedit ipsum dolor nemo non recusandae. Eum explicabo facere voluptate porro voluptas a in sed libero!
+            </p>
+        </div>
+      
+        <hr>
+        
+        <div style="text-align: center;">
+             <h1>Contact No</h1>
+             <h2>+91787483783743|eventcollab@gmail.com</h2>
+             <p>9th street Avenue Park,Trichy,625620</p>
+        </div>
+   </body>
+</html>
