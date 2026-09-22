@@ -28,5 +28,4 @@ A clean, responsive static website designed to showcase upcoming events, lookboo
 For any collaboration inquiries, suggestions, or event booking support:
 * **Email:** eventcollab@gmail.com
 * **Phone:** +91 787483783743
-* **Address:** 9th Street Avenue Park, Trichy, 625620, Tamil Nadu, India
-*
+* **Address:** 9th Street Avenue Park, Trichy, 625620, Tamil Nadu, India.
